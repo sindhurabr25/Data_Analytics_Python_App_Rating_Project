@@ -1,11 +1,11 @@
 # Data_Analytics_Python_App_Rating_Project
 
-##Objective: Make a model to predict the app rating, with other information about the app provided.
-##Analysis to be done: The problem is to identify the apps that are going to be good for Google to promote. App ratings, which are provided by the customers, is always a great indicator of the goodness of the app. 
+## Objective: Make a model to predict the app rating, with other information about the app provided.
+## Analysis to be done: The problem is to identify the apps that are going to be good for Google to promote. App ratings, which are provided by the customers, is always a great indicator of the goodness of the app. 
 The problem reduces to: predict which apps will have high ratings.
 Content: Dataset: Google Play Store data (“googleplaystore.csv”)
 
-##Fields in the data –
+## Fields in the data –
 •	App: Application name
 •	Category: Category to which the app belongs 
 •	Rating: Overall user rating of the app
